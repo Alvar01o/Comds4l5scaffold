@@ -1,7 +1,7 @@
 # Usage
 Laravel 5 Command - Generate CRUDS site from database with l5scaffold auto-generated commands 
 ```sh
-php artisan make:command BuildDb
+php artisan command:build
 ```
 
 
